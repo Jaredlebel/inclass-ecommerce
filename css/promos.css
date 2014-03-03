@@ -1,0 +1,10 @@
+.promo-small {
+    background-color: #c7c0ae;
+    border-radius: 10px;
+}
+
+/* Isolated Styling for the last promo.
+.promo-group .unit:last-child .promo-small {
+    background-color: red;
+}
+*/
